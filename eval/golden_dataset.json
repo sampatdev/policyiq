@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is the waiting period for pre-existing conditions?",
+      "expected_answer": "30 days",
+      "type": "factual"
+    },
+    {
+      "question": "Is dental treatment covered under this policy?",
+      "expected_answer": "No, dental treatment is excluded",
+      "type": "factual"
+    },
+    {
+      "question": "What is the sum insured under this policy?",
+      "expected_answer": "REPLACE_WITH_REAL_VALUE",
+      "type": "factual"
+    },
+    {
+      "question": "What is the process for filing a claim?",
+      "expected_answer": "REPLACE_WITH_REAL_SUMMARY",
+      "type": "open_ended"
+    },
+    {
+      "question": "Is maternity coverage included in this policy?",
+      "expected_answer": "REPLACE_WITH_REAL_VALUE",
+      "type": "factual"
+    },
+    {
+      "question": "What documents are required to file a claim?",
+      "expected_answer": "REPLACE_WITH_REAL_LIST",
+      "type": "open_ended"
+    },
+    {
+      "question": "Is there a co-payment requirement under this policy?",
+      "expected_answer": "REPLACE_WITH_REAL_VALUE",
+      "type": "factual"
+    },
+    {
+      "question": "What is the policy renewal process?",
+      "expected_answer": "REPLACE_WITH_REAL_SUMMARY",
+      "type": "open_ended"
+    },
+    {
+      "question": "Are pre-existing chronic conditions like diabetes covered?",
+      "expected_answer": "REPLACE_WITH_REAL_VALUE",
+      "type": "factual"
+    },
+    {
+      "question": "What is explicitly excluded from coverage under this policy?",
+      "expected_answer": "REPLACE_WITH_REAL_LIST",
+      "type": "open_ended"
+    }
+  ]
